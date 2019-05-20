@@ -1,3 +1,5 @@
-h1, h2 {
-  font-family: Lato;
+.container{
+	padding: 30px;
+	width: 50%;
+	margin: 0 auto;
 }
