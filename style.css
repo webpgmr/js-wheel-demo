@@ -2,5 +2,10 @@
 	padding: 30px;
 	width: 50%;
 	margin: 0 auto;
-  border: 1px solid #dcdcdc;
+        border: 1px solid #dcdcdc;
+	background-color: #7c4b90;
+}
+#svg_wheel{
+	display: block;
+	margin: 0 auto;
 }
