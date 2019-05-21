@@ -227,7 +227,8 @@
             var gtmLabel = sectionLabel[index];
             if (gtmLabel !== '') {
             }
-            document.location.href = sectionURL[index];
+            // document.location.href = sectionURL[index];
+              window.open(sectionURL[index]);
           },
           function (index, status) { // Call back for popover index is zero based
             if (index > 4 && status) { return; }
