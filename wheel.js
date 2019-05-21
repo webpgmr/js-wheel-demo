@@ -1,8 +1,8 @@
       // JavaScript Document
-      var sectionURL = ['http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/stroke-prevention-in-non-valvular-atrial-fibrillation',
-        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/treatment-of-pedvt-and-prevention-of-recurrent-vte',
-        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-symptomatic-pad',
-        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-chronic-cad',
+      var sectionURL = ['http://imcmmaster.dev-bayerahweb.acsitefactory.com/components',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/splash-page',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/productnametm-antihemophilic-factor-recombinant',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/node/81',
         'http://imcmmaster.dev-bayerahweb.acsitefactory.com/home'];
 
       var sectionLabel = ['Wheel NVAF',
