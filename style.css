@@ -8,3 +8,49 @@
 	display: block;
 	margin: 0 auto;
 }
+.fl{
+	float:left;
+}
+.box{
+	margin-top:10%;
+	font-family: sans-serif;
+	width: 20%;
+}
+.box p{
+	line-height: 20px;
+}
+.info{
+	padding: 50px 20px;
+	background-color: rgba(80, 62, 133, 0.49);
+	border-radius: 10px;
+}
+.title{
+	font-size: 30px;
+}
+.wheel_box{
+	width: 50%;
+}
+.right_arrow:after{
+	content: "\2192";
+    font-size: 67px;
+    float: right;
+    color: #ec008c;
+    margin-right: 10px;
+}
+hr{
+	margin-right:30%;
+	border: 1px solid #ec008c;
+}
+.triangle {
+	display: inline-block;
+	margin: 0 5px;
+	vertical-align: middle;
+}
+.triangle-2 {
+	position: relative;
+	right: 55px;
+	top: -100px;
+	border-right: solid 30px rgba(80, 62, 133, 0.49);
+	border-bottom: solid 30px transparent;
+	border-top: solid 30px transparent;
+}
