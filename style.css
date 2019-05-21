@@ -4,6 +4,10 @@
 	background-color: #7c4b90;
 	color: #ffffff;
 }
+.wheel_block{
+	display:block;
+	margin: 0 auto;
+}
 .fl{
 	float:left;
 }
