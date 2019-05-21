@@ -3,7 +3,7 @@
         'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/treatment-of-pedvt-and-prevention-of-recurrent-vte',
         'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-symptomatic-pad',
         'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-chronic-cad',
-        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications'];
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/home'];
 
       var sectionLabel = ['Wheel NVAF',
         'Wheel PE/DVT',
