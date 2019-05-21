@@ -4,10 +4,6 @@
 	background-color: #7c4b90;
 	color: #ffffff;
 }
-#svg_wheel{
-	display: block;
-	margin: 0 auto;
-}
 .fl{
 	float:left;
 }
@@ -28,7 +24,7 @@
 	font-size: 30px;
 }
 .wheel_box{
-	width: 50%;
+	width: 55%;
 }
 .right_arrow:after{
 	content: "\2192";
