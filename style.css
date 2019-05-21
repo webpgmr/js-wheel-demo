@@ -33,7 +33,7 @@
 }
 .right_arrow:after{
 	content: "\2192";
-    font-size: 67px;
+    font-size: 60px;
     float: right;
     color: #ec008c;
     margin-right: 10px;
