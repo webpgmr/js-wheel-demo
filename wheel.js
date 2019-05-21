@@ -1,9 +1,9 @@
       // JavaScript Document
-      var sectionURL = ['/indications/stroke-prevention-in-non-valvular-atrial-fibrillation',
-        '/indications/treatment-of-pedvt-and-prevention-of-recurrent-vte',
-        '/indications/prevention-of-atherothrombotic-events-in-symptomatic-pad',
-        '/indications/prevention-of-atherothrombotic-events-in-chronic-cad',
-        '/indications'];
+      var sectionURL = ['http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/stroke-prevention-in-non-valvular-atrial-fibrillation',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/treatment-of-pedvt-and-prevention-of-recurrent-vte',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-symptomatic-pad',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications/prevention-of-atherothrombotic-events-in-chronic-cad',
+        'http://imcmmaster.dev-bayerahweb.acsitefactory.com/indications'];
 
       var sectionLabel = ['Wheel NVAF',
         'Wheel PE/DVT',
