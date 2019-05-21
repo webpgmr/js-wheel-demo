@@ -228,7 +228,7 @@
             if (gtmLabel !== '') {
             }
             // document.location.href = sectionURL[index];
-              window.open(sectionURL[index],"_self");
+              window.open(sectionURL[index],"_parent");
           },
           function (index, status) { // Call back for popover index is zero based
             if (index > 4 && status) { return; }
